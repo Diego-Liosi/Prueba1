@@ -1,3 +1,3 @@
 # Prueba1
 
-# Esta es mi primera edicion desde GeeksHubs academy
+# Esta es mi segunda edicion desde GeeksHubs academy en la principal
